@@ -1,0 +1,28 @@
+nav:
+  about: О проекте
+  contribute: Внести вклад
+
+index:
+  lead: Open source проекты создаются такими же людьми, как и вы. Узнайте, как создать и развить свой проект.
+
+article:
+  table_of_contents: Содержание
+
+footer:
+  contribute:
+    heading: Внести вклад
+    description: У вас есть предложения? Этот контент с открытыми исходниками. Помогите нам сделать его лучше.
+    button: Внести вклад
+  subscribe:
+    heading: Подписаться на обновления
+    label: Email
+    button: Подписаться
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] с [love] от [github] и [friends]"
+    # Label for code octicon
+    code_label: код
+    # Label for love octicon
+    love_label: любовью
+    # Label for the contributors link
+    friends_label: друзей
