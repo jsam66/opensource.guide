@@ -1,7 +1,7 @@
 ---
-locale: en-US
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+locale: ru-RU
+title: Лучшие практики по сопровождению проекта
+description: Упрощают вашу жизнь как сопровождающего open source проекта, начиная от процессов документирования и заканчивая эффективным использованием энергии вашего сообщества.
 class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"
